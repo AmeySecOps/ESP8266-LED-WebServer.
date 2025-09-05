@@ -22,7 +22,7 @@ This project demonstrates how to control an LED using an ESP8266  via a Web Serv
 ![Screenshot](https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/8c3aeb9996efafcd8ee6e47ea6f8575b6a1b117f/source%20code/ledoff.png)
 
 #video
-![video](https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/0cf1c4c9497ae65b792d0f25bbabc9b3c3d9d914/source%20code/working%20project%20.mp4)
+https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/0cf1c4c9497ae65b792d0f25bbabc9b3c3d9d914/source%20code/working%20project%20.mp4
 
 ## 📂 Project Structure
 
