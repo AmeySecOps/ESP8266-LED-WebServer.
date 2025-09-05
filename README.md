@@ -25,3 +25,24 @@ This project demonstrates how to control an LED using an ESP8266  via a Web Serv
 ![video](https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/0cf1c4c9497ae65b792d0f25bbabc9b3c3d9d914/source%20code/working%20project%20.mp4)
 
 ## 📂 Project Structure
+
+## 🛠️ Requirements
+- Arduino IDE
+- ESP8266 Board Package
+- ESP8266WiFi & ESP8266WebServer libraries
+
+## ▶️ How to Run
+1. Install ESP8266 board in Arduino IDE
+2. Update your WiFi SSID & password in code
+3. Upload code to ESP8266
+4. Open Serial Monitor → Copy IP address
+5. Open IP in browser → Control LED!
+
+## ✨ Future Improvements
+- Show LED status on webpage
+- Control multiple devices
+- Add authentication
+- IoT cloud integration (MQTT, Blynk)
+
+---
+Made with ❤️ by Amey
