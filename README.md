@@ -1,5 +1,3 @@
-# ESP8266-LED-WebServer.
-ESP8266 project to control LED using Web Server with HTML & CSS.
 
 # ESP8266 LED Control Web Server 🌐💡
 
@@ -17,6 +15,7 @@ This project demonstrates how to control an LED using an ESP8266  via a Web Serv
 ![circuit](https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/40dd77d61ce31837497cc5c9f97dbfbbfa0a8b33/source%20code/circuit%20.jpg)
 
 ## 📷 Demo
-![screenshot](screenshot.png)
+-Led on 
+![screenshot](https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/0617f045e6ccc23fc489cde5a2fc35fe7303d06d/source%20code/ledon.png)
 
 ## 📂 Project Structure
