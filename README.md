@@ -14,7 +14,7 @@ This project demonstrates how to control an LED using an ESP8266  via a Web Serv
 ## 🔌 Circuit Diagram
 - ESP8266 GPIO2 (D4) → LED (via 220Ω resistor) → GND
 
-![circuit](circuit.png)
+![circuit](https://github.com/AmeySecOps/ESP8266-LED-WebServer./blob/40dd77d61ce31837497cc5c9f97dbfbbfa0a8b33/source%20code/circuit%20.jpg)
 
 ## 📷 Demo
 ![screenshot](screenshot.png)
